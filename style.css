@@ -46,14 +46,3 @@ section{
 	border-radius: 5px;
 	margin-bottom: 10px;
 }
-
-.article img{
-	float: left;
-	padding: 30px;
-	margin-right: 10px;
-	border: 1px solid #DEDCD9;
-}
-
-.article a{
-	font-size: 18px;
-}
